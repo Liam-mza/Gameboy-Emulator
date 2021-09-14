@@ -9,7 +9,7 @@ An emulator of the Nintendo Gameboy that can run actual Nintendo gameboy ROMs! S
     *ex: ./gbsimulator snake.gb*
   - Enjoy the game! Many more Roms can be found on the web! 
   
-  **Note: if you want to play Tetris just uncomment in the Makefile the line 23: 'CPPFLAGS += -DNO_ROM_WRITE' before compiling. **   
+  **Note: if you want to play Tetris just uncomment in the Makefile the line 23: 'CPPFLAGS += -DNO_ROM_WRITE' before compiling.**   
   
 # Commands
 A -> A  
